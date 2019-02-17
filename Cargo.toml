@@ -1,0 +1,10 @@
+[package]
+name = "miller-rabin-biguint"
+version = "0.1.0"
+authors = ["Peter van Nostrand <jnz@riseup.net>"]
+edition = "2018"
+
+[dependencies]
+num-bigint = "0.2"
+num-integer = "0.1"
+num-traits = "0.2"
